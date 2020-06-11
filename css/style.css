@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  background: #eefbfd;
+}
+
+.topContainer {
+  background-color: #e5fcff;
+  margin: 0;
+  border: 0;
+  padding-top: 300px;
+  height: 100%;
+  text-align: center;
+  position: relative;
+}
+
+.middleContainer {
+  margin: 20px;
+  text-align: center;
+}
+
+.topCloud {
+  height: 200px;
+  width: 300px;
+  position: absolute;
+  top: 10px;
+  right: 100px;
+}
+
+.bottomCloud {
+  height: 150px;
+  width: 225px;
+  position: absolute;
+  bottom: 200px;
+  left: 100px;
+}
+
+.mountain {}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+a {}
+
+.profilePhoto {
+  height: 250px;
+  width: 250px;
+}
+
+.skillPhoto {
+  height: 100px;
+  width: 100px;
+  float: left;
+  padding: 10px;
+}
+
+.paragraph {
+  font-weight: bolder;
+  color: #0DA4A4;
+}
+
+.skillRow {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skillTaxt {
+  line-height: 2;
+}
+
+.java {
+  float: right;
+}
+
+.android {
+  float: right;
+}
+
+.skillTaxtDiv {
+  margin: 10px;
+}
+
+hr {
+  border-style: none;
+  border-top: 7px dotted;
+  color: #cacaca;
+  width: 5%;
+  margin: 40px auto 40px auto;
+}
+
+.socialLink {
+  background-color: #10afaf;
+  margin: 0;
+  border: 0;
+  padding-top: 20px;
+  height: 100px;
+  text-align: center;
+}
+
+.socialHeading {
+  color: #f5f5f5;
+  margin: 20px auto 10px auto;
+}
+
+.socialLinkText {
+  margin: 20px;
+}
+
+a:hover {
+  color: black;
+}
